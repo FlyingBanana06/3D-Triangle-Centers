@@ -1,4 +1,4 @@
-# 3D Geometry Calculations
+# 3D Triangle Centers Calculator
 
 ## Overview
 This program calculates key geometric properties of a triangle in 3D space, including its centroid, incenter, orthocenter, and circumcenter. Given three points in 3D space, it performs vector operations to compute these properties efficiently. The complexity of 3D computations compared to 2D lies in the additional dimension, which requires more intricate calculations such as cross products and line intersections.
