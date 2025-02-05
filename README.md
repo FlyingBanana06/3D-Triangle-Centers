@@ -14,11 +14,11 @@ Through this project, I deepened my understanding of working with **structs** in
 ## How to Use
 1. Compile the program using a C++ compiler (e.g., g++):
    ```sh
-   g++ -o geometry_program geometry.cpp -lm
+   g++ -o centers_calculator 3D_triangle_centers.cpp -lm
    ```
 2. Run the program:
    ```sh
-   ./geometry_program
+   ./centers_calculator
    ```
 3. Input the coordinates of three points in 3D space.
 4. The program outputs the computed geometric properties.
